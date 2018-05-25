@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Suite">
+    <test name="TestNG Intentoins Test">
+
+
+        <parameter name="gitLogin" value="Poltor22"/>
+        <parameter name="gitPassword" value="hdyR567Rdeq"/>
+
+
+        <parameter name="url" value="https://mail.google.com"/>
+        <parameter name="login" value="olchimbrak@gmail.com"/>
+        <parameter name="password" value="9cf2ef2022819a"/>
+        <parameter name="to" value="OlTsum@gmail.com"/>
+        <parameter name="cc" value="Ols@gmail.com"/>
+        <parameter name="bcc" value="Off11s@gmail.com"/>
+        <parameter name="sub" value="Some subject"/>
+        <parameter name="mess" value="Hello world!"/>
+        <classes>
+            <class name="com.epam.lab.DecoratorTest"></class>
+        </classes>
+    </test>
+</suite>

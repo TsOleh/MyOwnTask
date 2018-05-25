@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-05-24T21:52:52Z" name="TestNG Suite" finished-at="2018-05-24T21:53:07Z" duration-ms="14596">
+    <groups>
+    </groups>
+    <test started-at="2018-05-24T21:52:52Z" name="TestNG Intentoins Test" finished-at="2018-05-24T21:53:07Z" duration-ms="14596">
+      <class name="com.epam.lab.DecoratorTest">
+        <test-method signature="testDecorator()[pri:0, instance:com.epam.lab.DecoratorTest@76505305]" started-at="2018-05-25T00:52:52Z" name="testDecorator" finished-at="2018-05-25T00:53:06Z" duration-ms="13837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDecorator -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.epam.lab.DecoratorTest@76505305]" started-at="2018-05-25T00:53:06Z" name="closeDriver" finished-at="2018-05-25T00:53:07Z" duration-ms="758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.epam.lab.DecoratorTest -->
+    </test> <!-- TestNG Intentoins Test -->
+  </suite> <!-- TestNG Suite -->
+</testng-results>
